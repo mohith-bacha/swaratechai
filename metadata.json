@@ -1,0 +1,7 @@
+{
+  "name": "SwaraTech AI - Telugu Voice Studio",
+  "description": "Generate realistic, high-impact Telugu AI voiceovers and tech reel audio with customizable voices, director styles, teleprompter, and audio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
